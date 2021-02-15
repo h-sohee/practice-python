@@ -1,5 +1,7 @@
+# 라이브러리 읽어 들이기 --- (※1)
 from bs4 import BeautifulSoup
 
+# 분석하고 싶은 HTML --- (※2)
 html = """
 <html><body>
     <h1>스크레이핑이란?</h1>
@@ -8,12 +10,15 @@ html = """
 </body></html>
 """
 
+# HTML 분석하기 --- (※3)
 soup = BeautifulSoup(html, 'html.parser')
 
+# 원하는 부분 추출하기 --- (※4)
 h1 = soup.html.body.h1
 p1 = soup.html.body.p
 p2 = p1.next_sibling.next_sibling
 
+# 요소의 글자 출력하기 --- (※5)
 print("h1 = " + h1.string)
 print("p1 = " + p1.string)
 print("p2 = " + p2.string)
