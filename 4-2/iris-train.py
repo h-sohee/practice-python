@@ -6,9 +6,11 @@ from sklearn import svm, metrics
 # 붓꽃의  CSV 데이터 읽어 들이기 --- (※1)
 csv = []
 with open('iris.csv', 'r', encoding='utf-8') as fp:
+    # 한 줄씩 읽어 들이기
     for line in fp:
-        line = line.strip()
-        cols = line.split(',')
+        line = line.strip()     # 줄바꿈 제거
+        cols = line.split(',')  # 쉼표로 자르기
+        # 문자열 데이터를 숫자로 변환하기
         fn = lambda n: float(n) if re.match(r'^[0-9\.]+$', n) else n
         cols = list(map(fn, cols))
         csv.append(cols)
