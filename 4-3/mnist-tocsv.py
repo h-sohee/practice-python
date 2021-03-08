@@ -39,6 +39,8 @@ def to_csv(name, maxdata):
 
 
 # 결과를 파일로 출력하기 --- (※4)
-to_csv("train", 1000)
-to_csv("t10k", 500)
+# 값 바꿔서 테스트
+to_csv("train", 100000)
+to_csv("t10k", 1000)
+
 
