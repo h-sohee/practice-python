@@ -2,354 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aaa4d5fe-c404-45a1-a39d-940cf2a6f39b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/_static/pydoctheme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/_static/pygments.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/2to3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/__future__.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/__main__.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/_dummy_thread.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/_thread.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/abc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/aifc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/allos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/archiving.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/argparse.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/array.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/ast.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/asynchat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/asyncio-api-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/asyncio-dev.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/asyncio-eventloop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/asyncio-exceptions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/asyncio-future.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/asyncio-llapi-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/asyncio-platforms.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/asyncio-policy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/asyncio-protocol.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/asyncio-queue.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/asyncio-stream.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/asyncio-subprocess.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/asyncio-sync.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/asyncio-task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/asyncio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/asyncore.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/atexit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/audioop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/audit_events.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/base64.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/bdb.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/binary.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/binascii.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/binhex.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/bisect.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/builtins.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/bz2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/calendar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/cgi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/cgitb.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/chunk.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/cmath.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/cmd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/code.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/codecs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/codeop.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/collections.abc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/collections.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/colorsys.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/compileall.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/concurrency.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/concurrent.futures.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/concurrent.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/configparser.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/constants.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/contextlib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/contextvars.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/copy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/copyreg.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/crypt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/crypto.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/csv.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/ctypes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/curses.ascii.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/curses.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/curses.panel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/custominterp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/dataclasses.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/datatypes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/datetime.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/dbm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/debug.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/decimal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/development.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/difflib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/dis.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/distribution.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/distutils.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/doctest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/dummy_threading.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/email.charset.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/email.compat32-message.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/email.contentmanager.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/email.encoders.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/email.errors.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/email.examples.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/email.generator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/email.header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/email.headerregistry.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/email.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/email.iterators.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/email.message.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/email.mime.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/email.parser.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/email.policy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/email.utils.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/ensurepip.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/enum.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/errno.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/exceptions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/faulthandler.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/fcntl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/filecmp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/fileformats.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/fileinput.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/filesys.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/fnmatch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/formatter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/fractions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/frameworks.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/ftplib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/functional.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/functions.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/functools.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/gc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/getopt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/getpass.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/gettext.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/glob.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/grp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/gzip.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/hashlib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/heapq.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/hmac.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/html.entities.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/html.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/html.parser.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/http.client.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/http.cookiejar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/http.cookies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/http.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/http.server.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/i18n.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/idle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/imaplib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/imghdr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/imp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/importlib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/importlib.metadata.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/inspect.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/internet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/intro.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/io.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/ipaddress.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/ipc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/itertools.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/json.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/keyword.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/language.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/linecache.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/locale.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/logging.config.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/logging.handlers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/logging.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/lzma.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/mailbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/mailcap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/markup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/marshal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/math.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/mimetypes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/misc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/mm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/mmap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/modulefinder.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/modules.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/msilib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/msvcrt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/multiprocessing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/multiprocessing.shared_memory.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/netdata.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/netrc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/nis.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/nntplib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/numbers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/numeric.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/operator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/optparse.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/os.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/os.path.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/ossaudiodev.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/othergui.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/parser.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/pathlib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/pdb.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/persistence.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/pickle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/pickletools.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/pipes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/pkgutil.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/platform.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/plistlib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/poplib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/posix.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/pprint.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/pty.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/pwd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/py_compile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/pyclbr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/pydoc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/pyexpat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/python.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/queue.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/quopri.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/random.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/re.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/readline.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/reprlib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/resource.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/rlcompleter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/runpy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/sched.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/secrets.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/select.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/selectors.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/shelve.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/shlex.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/shutil.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/signal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/site.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/smtpd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/smtplib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/sndhdr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/socket.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/socketserver.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/spwd.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/sqlite3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/ssl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/stat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/statistics.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/stdtypes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/string.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/stringprep.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/struct.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/subprocess.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/sunau.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/superseded.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/symbol.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/symtable.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/sys.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/sysconfig.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/syslog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/tabnanny.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/tarfile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/telnetlib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/tempfile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/termios.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/text.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/textwrap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/threading.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/time.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/timeit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/tk.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/tkinter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/tkinter.scrolledtext.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/tkinter.tix.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/tkinter.ttk.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/token.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/tokenize.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/trace.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/traceback.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/tracemalloc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/tty.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/turtle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/types.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/typing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/undoc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/unicodedata.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/unittest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/unittest.mock-examples.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/unittest.mock.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/unix.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/urllib.error.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/urllib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/urllib.parse.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/urllib.request.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/urllib.robotparser.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/uu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/uuid.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/venv.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/warnings.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/wave.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/weakref.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/webbrowser.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/windows.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/winreg.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/winsound.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/wsgiref.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/xdrlib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/xml.dom.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/xml.dom.minidom.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/xml.dom.pulldom.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/xml.etree.elementtree.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/xml.sax.handler.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/xml.sax.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/xml.sax.reader.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/xml.sax.utils.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/xmlrpc.client.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/xmlrpc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/xmlrpc.server.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/zipapp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/zipfile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/zipimport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-4/docs.python.org/3.8/library/zlib.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist-download.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist-tocsv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist-train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/t10k-0-7.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/t10k-1-2.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/t10k-2-1.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/t10k-3-0.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/t10k-4-4.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/t10k-5-1.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/t10k-6-4.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/t10k-7-9.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/t10k-8-5.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/t10k-9-9.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/t10k-images-idx3-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/t10k-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/t10k-labels-idx1-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/t10k-labels-idx1-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/t10k.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/train-0-5.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/train-1-0.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/train-2-4.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/train-3-1.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/train-4-9.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/train-5-2.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/train-6-1.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/train-7-3.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/train-8-1.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/train-9-4.pgm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/train-images-idx3-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/train-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/train-labels-idx1-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/train-labels-idx1-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4-3/mnist/train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-test-300/test_131-160.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python-test-300/test_161-180.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4-2/iris-train.py" beforeDir="false" afterPath="$PROJECT_DIR$/4-2/iris-train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python-test-300/test_131-170.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -399,49 +55,7 @@
       <recent name="C:\sample" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.mnist-train">
-    <configuration name="cr-getall" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="practice-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-4/cr-getall.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="mnist-download" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="practice-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4-3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4-3/mnist-download.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.test_161-180 (1)">
     <configuration name="mnist-tocsv" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -484,7 +98,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="set-re" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_131-160" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -492,11 +106,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1-3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-test-300" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1-3/set-re.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\krist\Desktop\Github\practice-python\python-test-300\test_131-160.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_161-180 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python-test-300" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python-test-300/test_161-180.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_161-180" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="D:/human/수업자료/코드/python-300" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:/human/수업자료/코드/python-300/test_161-180.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -507,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test_161-180 (1)" />
+        <item itemvalue="Python.test_161-180" />
+        <item itemvalue="Python.test_131-160" />
         <item itemvalue="Python.mnist-train" />
         <item itemvalue="Python.mnist-tocsv" />
-        <item itemvalue="Python.mnist-download" />
-        <item itemvalue="Python.cr-getall" />
-        <item itemvalue="Python.set-re" />
       </list>
     </recent_temporary>
   </component>
@@ -536,6 +192,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
